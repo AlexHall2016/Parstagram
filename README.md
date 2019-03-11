@@ -23,4 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/v2vpEztGJ4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Note
+When I was tried to record a Gif for the app, I was unable to log in. I could not find the source of the error or why.
+The message in the console reads :
+
+Error: Optional("The data couldn’t be read because it isn’t in the correct format."))
